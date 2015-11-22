@@ -1,0 +1,7 @@
+getwd()
+setwd("Users/dustinirwin/Documents/R/Working Directory")
+mean(1:1337)
+getwd()
+list.files()
+setwd("/Users/dustinirwin/Documents/ProgrammingAssignment2")
+list.files()
